@@ -55,7 +55,7 @@
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | ------------ |
 | [ignatova-e](https://github.com/ignatova-e/ignatova-e)                         | Profile README: главный репозиторий профиля GitHub с описанием опыта, стека и проектов.    | Markdown     |
 | [Linux](https://github.com/ignatova-e/Linux)                                   | Учебный репозиторий по Linux и базовым DevOps-практикам.                                   | Linux / Bash |
-| [ping-pong](https://github.com/ignatova-e/ping-pong)                           | Учебный групповой проект.                                                                  | C            |
+| [ping-pong](https://github.com/ignatova-e/ping-pong)                           | Консольная реализация классической игры Pong на языке C для двух игроков. Проект был выполнен как первый групповой проект в School 21: простая ASCII-графика, пошаговое управление, счет и победа при 21 очке. | C            |
 | [game_of_life](https://github.com/ignatova-e/game_of_life)                     | Командный учебный проект School 21 по реализации Game of Life.                             | C            |
 | [Mobile-application-2.0](https://github.com/ignatova-e/Mobile-application-2.0) | Учебный репозиторий колледжа по мобильной разработке.                                      | Swift        |
 | [Mobile-application](https://github.com/ignatova-e/Mobile-application)         | Учебный проект по мобильной разработке.                                                    | Swift        |
