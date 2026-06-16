@@ -60,7 +60,7 @@
 | [Mobile-application-2.0](https://github.com/ignatova-e/Mobile-application-2.0) | Учебный репозиторий колледжа по мобильной разработке.                                      | Swift        |
 | [Mobile-application](https://github.com/ignatova-e/Mobile-application)         | Учебный проект по мобильной разработке.                                                    | Swift        |
 | [railway-database](https://github.com/ignatova-e/railway-database)             | Проект для работы с базой данных железнодорожной предметной области.                       | SQL          |
-| [Math](https://github.com/ignatova-e/Math)                                     | Учебный проект на C: математические функции и практика системной разработки.               | C            |
+| [Math](https://github.com/ignatova-e/Math)                                     | Учебная реализация части стандартной библиотеки math.h на C. Проект собирается в статическую библиотеку s21_math.a и содержит собственные версии базовых математических функций с unit-тестами для проверки точности. | C            |
 | [String-Plus](https://github.com/ignatova-e/String-Plus)                       | Учебный проект на C: работа со строками и реализация стандартных операций.                 | C            |
 | [Simple-Bash-Utils](https://github.com/ignatova-e/Simple-Bash-Utils)           | Учебный проект с реализацией простых Bash-утилит и практикой работы в Unix-like окружении. | Shell / C    |
 
