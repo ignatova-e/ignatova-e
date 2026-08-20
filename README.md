@@ -1,79 +1,94 @@
-# Привет, я Женя 👋
+# Привет, я Женя
 
 <p align="center">
   <img src="./img/img2.png" alt="Евгения за ноутбуком" width="100%">
 </p>
 
-Я работаю инженером технической поддержки и развиваюсь в направлении DevOps.
+Я работаю инженером технической поддержки и развиваюсь в направлении Python
+backend-разработки.
 
 Учусь в School 21 и получаю образование разработчика в колледже. В работе
 разбираюсь с техническими проблемами, багами, логами, интеграциями и
-тестированием. На GitHub собираю проекты, через которые изучаю разработку,
-Linux, автоматизацию и инфраструктурные практики.
+тестированием. На GitHub собираю учебные проекты и конспекты по Python, SQL,
+алгоритмам, Linux и Bash.
 
-Сейчас мой главный публичный проект — **SaveFlow**, open-source Telegram Mini App
-для финансового учёта, накоплений и оптимизации расходов.
+Сейчас ищу стажировку в Python backend-разработке, где смогу применить знания
+Python, SQL и асинхронного программирования и получить практический опыт
+создания REST API.
 
-## Current focus
+## Что я умею
 
-- Linux and Bash
-- Docker and containerization
-- Git and GitHub workflows
-- Python and backend development
-- SQL and PostgreSQL
-- CI/CD fundamentals
-- Open-source project development
+- **Python и стандартная библиотека.** Изучала Python в колледже и School 21,
+  применяю его в учебных проектах по алгоритмам и конкурентному
+  программированию.
+- **SQL.** Знакома с `JOIN`, транзакциями, принципами ACID и CTE. Изучала SQL в
+  колледже и School 21; конспекты и практические примеры собраны в
+  [разделе SQL](https://github.com/ignatova-e/devops-learning/tree/main/docs/sql)
+  репозитория `devops-learning`.
+- **Асинхронное и конкурентное программирование.** Работала с `asyncio`,
+  потоками и процессами, понимаю различия между ними и подходящие сценарии
+  применения.
+- **Bash и Linux.** Могу читать и писать простые shell-скрипты, работала с
+  командной строкой и Unix-утилитами. Есть
+  [конспект по Bash](https://github.com/ignatova-e/devops-learning/blob/main/docs/linux/bash_scripting_basics.md).
+- **Алгоритмы и структуры данных.** Знаю базовые структуры данных Python и умею
+  оценивать временную и пространственную сложность алгоритмов на базовом уровне.
+- **REST CRUD-сервисы.** Сейчас осваиваю разработку REST API на Python — это моя
+  ближайшая зона развития.
 
-## Featured projects
+## Проекты
 
-### [SaveFlow](https://github.com/ignatova-e/saveflow)
+### [Python Algorithms Practice](https://github.com/ignatova-e/python-algorithms-practice)
 
-Open-source Telegram Mini App for expense tracking, savings goals and spending
-optimization.
+Учебная практика по алгоритмам, структурам данных и оценке сложности решений на
+Python.
 
-The project is currently in the planning and early development stage.
+`Python` `Algorithms` `Data Structures` `Big O`
 
-`Python` `FastAPI` `PostgreSQL` `Telegram` `Docker`
+### [Python Concurrency Practice](https://github.com/ignatova-e/python-concurrency-practice)
+
+Учебные задачи по конкурентному и асинхронному программированию: потоки,
+процессы и `asyncio`.
+
+`Python` `Asyncio` `Threading` `Multiprocessing`
+
+## Дополнительные учебные проекты
+
+Эти проекты написаны на C в рамках обучения в School 21. Они дали мне практику
+программирования, работы с Git, сборки через Makefile, написания тестов и
+использования Bash-скриптов.
 
 ### [String Plus](https://github.com/ignatova-e/String-Plus)
 
-Implementation of selected `string.h` functions in C, including string
-processing, memory operations and formatted output.
+Реализация части функций стандартной библиотеки `string.h`, включая работу со
+строками, памятью и форматированным выводом.
 
-`C` `Makefile` `Unit Tests`
+`C` `Git` `Makefile` `Unit Tests`
 
 ### [Math](https://github.com/ignatova-e/Math)
 
-Implementation of selected mathematical functions from `math.h`, packaged as a
-static C library and covered with unit tests.
+Реализация части функций библиотеки `math.h` в виде статической библиотеки с
+модульными тестами.
 
-`C` `Makefile` `Unit Tests`
-
-### [Linux](https://github.com/ignatova-e/Linux)
-
-Educational projects covering Ubuntu Server administration and basic network
-configuration: SSH, systemd, netplan, routing, firewall rules, DHCP, NAT and
-network diagnostics.
-
-`Linux` `Bash` `Networking`
+`C` `Git` `Makefile` `Unit Tests`
 
 ### [Simple Bash Utils](https://github.com/ignatova-e/Simple-Bash-Utils)
 
-Educational implementation of basic command-line utilities and practice with
-Unix-like environments.
+Учебная реализация базовых консольных утилит и практика работы в Unix-подобной
+среде.
 
-`C` `Shell` `Makefile`
+`C` `Git` `Makefile` `Unit Tests` `Bash`
 
-## Background
+## Обо мне
 
-- Technical support at Flowwow
-- Software development studies in college
-- School 21 student
-- Hackathon experience in a team project with responsibility for deployment and
-  GitHub Pages
-- Experience with technical documentation, bug investigation and testing
+- Работаю инженером технической поддержки в Flowwow.
+- Учусь на разработчика в колледже и в School 21.
+- В работе исследую баги, анализирую логи и интеграции, занимаюсь тестированием
+  и технической документацией.
+- Участвовала в командном хакатоне, отвечала за деплой и GitHub Pages.
+- Продолжаю углублять знания Python, SQL и backend-разработки.
 
-## Technologies
+## Технологии
 
 ### Infrastructure and tools
 
@@ -90,10 +105,10 @@ Unix-like environments.
 ![SQL](https://img.shields.io/badge/SQL-0f766e?style=flat-square&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-## Contacts
+## Контакты
 
 [![Telegram](https://img.shields.io/badge/Telegram-evgeniignatova-229ED9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/evgeniignatova1)
 [![Email](https://img.shields.io/badge/Email-evgeniiaignatova-ef4444?style=flat-square&logo=gmail&logoColor=white)](mailto:evgeniiaignatova0@gmail.com)
 
-Open to internships, junior opportunities and open-source collaboration in
-backend development and DevOps.
+Открыта к стажировкам и junior-позициям в Python backend-разработке, а также к
+участию в open-source проектах.
