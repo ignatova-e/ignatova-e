@@ -115,7 +115,7 @@ working in a Unix-like environment.
 ![Docker](https://img.shields.io/badge/Docker-2563eb?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f97316?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=flat-square&logo=githubactions&logoColor=white)
-[![SadServers Level](https://img.shields.io/badge/SadServers-Learning-455A64?style=for-the-badge&labelColor=FFC400&logo=githubcopilot&logoColor=1A237E&logoSize=auto)](https://sadservers.com/accounts/dashboard)
+[![SadServers Level](https://img.shields.io/badge/SadServers-Learning-455A64?style=flat-square&labelColor=FFC400&logo=githubcopilot&logoColor=1A237E&logoSize=auto)](https://sadservers.com/accounts/dashboard)
 
 ### Development
 
